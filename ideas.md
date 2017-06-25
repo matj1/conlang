@@ -1,6 +1,6 @@
 no grammatical number
 
-few phonemes to make them easily distinguishable
+few phonemes to make them easily distinguishable, firstly no distinction in voicedness (phonemes in [phonology.md](phonology.md))
 
 participles as the main way of expressing time and time relations
 
