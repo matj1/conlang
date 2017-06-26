@@ -13,3 +13,7 @@ joining nouns made by something like brackets (to clearly distinguish neighbouri
 question indicated by a verb preposition or a verb mode
 
 words like yes and no, but yes meaning question trandsformed into indication would be true, no meaning it wouldn't be true (Isn't the work done? : Yes, it isn't. | No, it is.)
+
+verb x and verb not x are separate verbs
+
+also whole sentence can be negated
